@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_paypal/flutter_paypal.dart';
 
 
-class MyHomePage extends StatefulWidget {
+class Paypalntegration extends StatefulWidget {
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  State<Paypalntegration> createState() => _PaypalntegrationState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _PaypalntegrationState extends State<Paypalntegration> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
